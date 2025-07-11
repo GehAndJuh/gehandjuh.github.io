@@ -5,16 +5,7 @@ const heartContainer = document.querySelector('.heart-container');
 const navbarHeart = document.getElementById('navbar-heart');
 const parallaxSection = document.getElementById('parallax-heart');
 // Objeto de legendas para as fotos
-const captions = {
-  1: "Legenda da foto 1",
-  2: "Legenda da foto 2",
-  3: "Legenda da foto 3",
-  4: "Legenda da foto 4",
-  5: "Legenda da foto 5",
-  6: "Legenda da foto 6",
-  7: "Legenda da foto 7",
-  8: "Legenda da foto 8"
-};
+const captions = {};
 
 // Parâmetros de rolagem
 const joinScroll = 120; // px para unir o coração
