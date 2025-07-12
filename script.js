@@ -5,7 +5,9 @@ const heartContainer = document.querySelector('.heart-container');
 const navbarHeart = document.getElementById('navbar-heart');
 const parallaxSection = document.getElementById('parallax-heart');
 // Objeto de legendas para as fotos
-const captions = {};
+const captions = {
+  1: "Dia do primeiro Beijo + Dogão"
+};
 
 // Parâmetros de rolagem
 const joinScroll = 120; // px para unir o coração
