@@ -6,7 +6,19 @@ const navbarHeart = document.getElementById('navbar-heart');
 const parallaxSection = document.getElementById('parallax-heart');
 // Objeto de legendas para as fotos
 const captions = {
-  1: "Dia do primeiro Beijo + Dogão"
+  1: "Dia do primeiro Beijo + Dogão",
+  2: "Primeira Foto - Servimos no Casamento",
+  3: "❤️",
+  4: "Primeira ida a SP",
+  5: "Aniversário do Geh + Ida ao Shopping",
+  6: "Pedido de Namoro (31/05)",
+  7: "Assistimos Round 6",
+  8: "Presente de dia dos Namorados",
+  9: "Primeira receita que a Juh fez casa",
+  10: "Lanche no dia do aniversário do Geh",
+  11: "Churrasco em casa",
+  12: "Culto de Mocidade em Arujá",
+  13: "Culto de Mocidade, só que borrado"
 };
 
 // Parâmetros de rolagem
