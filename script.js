@@ -18,7 +18,9 @@ const captions = {
   10: "Lanche no dia do aniversário do Geh",
   11: "Churrasco em casa",
   12: "Culto de Mocidade em Arujá",
-  13: "Culto de Mocidade, só que borrado"
+  13: "Culto de Mocidade, só que borrado",
+  14: "Primeira vez na casa da Juh",
+  15: "Indo comer açaí"
 };
 
 // Parâmetros de rolagem
